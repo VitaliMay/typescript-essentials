@@ -15,4 +15,7 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 
 ## Reflections
 
-I have understood what it is, what it is for and why we need to use it. There are just some ''minor things' left - to learn how to work with all that, haha)
+I have understood what it is, what it is for and why we need to use it. There are just some ''minor things' left - to learn how to work with all that, haha).
+And also:
+- **Module 1.** Somehow I set up the TypeScript development environment for future exercises. I decided for myself that it is better not to install TS globally and that it is useless to swear at the computer
+- **Module 2 - 8.** I came to the understanding that there is no particular point in criticizing Microsoft for experimenting with RSS students either :)
